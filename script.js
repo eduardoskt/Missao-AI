@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao: "Não, nunca!!! "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Não, nunca!!!",
+                afirmacao: "Sim, com certeza!"
             }
         ]
     },
@@ -26,13 +26,13 @@ const perguntas = [
                 afirmacao: "Concerteza não, creio qu a maconha não ira trazer nehum beneficio só maleficios."
             },
             {
-                texto: "Concerteza não, creio qu a maconha não ira trazer nehum beneficio só maleficios.",
+                texto: "Concerteza não, creio que a maconha não ira trazer nenhum beneficio só maleficios.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
     },
     {
-        enunciado: "Caso a maconha seja legalizaad, você acredita que devera haver regulamentação rigida sobre onde e como ela pode ser consumida (ex:.. locais especificos  proibição em áreas públicas)?",
+        enunciado: "Caso a maconha seja legalizada, você acredita que devera haver regulamentação rigida sobre onde e como ela pode ser consumida (ex:.. locais especificos  proibição em áreas públicas)?",
         alternativas: [
             {
                 texto: "Sim, o uso da maconha deveria ser consumida em locais proprios como locais abertos e arejados",
@@ -48,7 +48,7 @@ const perguntas = [
         enunciado: "Você acredita que o uso recreativo de maconha por adolescentes pode ter impactos negativos em sua vida acadêmicas social?",
         alternativas: [
             {
-                texto: "Sim, porque vaoi acabar afetando sua vida, po se tornar um vicio compulsivo",
+                texto: "Sim, porque vai acabar afetando sua vida, e vai acabar se  tornar um vicio compulsivo",
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
